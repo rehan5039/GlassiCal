@@ -6,7 +6,7 @@ GlassiCal is a modern Android calculator application that brings the stunnnig **
 
 <!-- ![GlassiCal Banner](fastlane/metadata/android/en-US/images/featureGraphic/featureGraphic.png) -->
 
-[icon](fastlane\metadata\android\en-US\images\icon\icon.jpeg)
+<img src="fastlane\metadata\android\en-US\images\icon\icon.jpeg" width="200" />
 
 ## Why GlassiCal?
 

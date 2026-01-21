@@ -1,0 +1,9 @@
+GlassiCal is a modern, open-source calculator application featuring a stunning glassmorphism UI.
+
+Features:
+*   Glassmorphism UI: A sleek, transparent, and blurry aesthetic.
+*   Essential Functions: Basic arithmetic (+, -, *, /) and percentage calculations.
+*   Adaptive Design: Fits perfectly on devices with gesture or 3-button navigation.
+*   Privacy Focused: No internet permission required.
+
+Based on OpenCalc. Licensed under GPLv3.

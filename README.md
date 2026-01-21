@@ -4,7 +4,9 @@
 
 GlassiCal is a modern Android calculator application that brings the stunnnig **Glassmorphism** design language to your fingertips. It combines a beautiful, frosted-glass aesthetic with robust functionality and privacy-conscious engineering.
 
-![GlassiCal Banner](fastlane/metadata/android/en-US/images/featureGraphic/featureGraphic.png)
+<!-- ![GlassiCal Banner](fastlane/metadata/android/en-US/images/featureGraphic/featureGraphic.png) -->
+
+[icon](fastlane\metadata\android\en-US\images\icon\icon.jpeg)
 
 ## Why GlassiCal?
 
@@ -12,7 +14,7 @@ GlassiCal is a modern Android calculator application that brings the stunnnig **
 *   **📱 Adaptive Design:** Features a "Liquid Layout" that automatically adjusts padding for devices with Gesture Navigation or 3-Button Navigation bars.
 *   **⚡ Live Preview:** See your results instantly as you type.
 *   **🔒 Privacy Focused:** Requires **zero** dangerous permissions. No internet, no analytics.
-*   **👐 Open Source:** Fully open source and licensed under GPLv3. Based on the excellent [OpenCalc](https://github.com/DarkEmpire78/OpenCalc).
+*   **👐 Open Source:** Fully open source and licensed under GPLv3.
 
 ## Screenshots
 
@@ -28,4 +30,4 @@ This project is licensed under the **GNU General Public License v3.0**.
 See the [LICENSE](LICENSE) file for details.
 
 ---
-*Built with ❤️ by [Your Name/Username]*
+*Built with ❤️ by rehan*

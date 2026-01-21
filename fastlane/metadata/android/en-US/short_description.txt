@@ -1,1 +1,1 @@
-A beautiful calculator with glassmorphism design.
+A beautiful calculator with glassmorphism design

@@ -1,4 +1,4 @@
-# GlassiCal 🧮✨
+# GlassiCal
 
 **The Art of Calculation.**
 
